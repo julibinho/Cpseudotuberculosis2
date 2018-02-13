@@ -1,0 +1,176 @@
+form {
+  width : 500px;
+  padding: 100px;
+  border : 1px solid #B4AF91;
+  border-radius: 1em;
+  margin-top : 5em ;
+  margin-bottom : 5em ;
+  margin-right : 150px ;
+  margin-left : 100px ;
+
+}
+
+
+label {
+  display: inline-block;
+  width  : 200px;
+  text-align: right;
+}
+
+
+
+table {
+
+  width  : 50px;
+margin-left : 50px ;
+}
+
+select { 
+width : 50px ;
+display : inline ;
+
+}
+
+input, textarea {
+  font: 1em sans-serif;
+
+  width: 200px;
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+
+  border: 1px solid #999;
+}
+
+input:focus, textarea:focus {
+  border-color: #B4AF91;
+}
+
+button[type=submit]:hover {
+ background-color:#C0C0C0;
+ }
+button[type=submit]:active {
+ background-color:#FCDEDE;
+  box-shadow:1px 1px 1px #C0C0C0 inset;
+}
+button[type=submit]:focus {
+ background-color:#C0C0C0;
+}
+
+input, textarea, select {
+ padding:3px;
+ border:1px solid #B4AF91;
+ border-radius:5px;
+ width:200px;
+ box-shadow:1px 1px 2px #C0C0C0 inset;
+ }
+
+
+
+button {
+  margin-left: 300px;
+  box-shadow:1px 1px 1px #C0C0C0 inset;
+ cursor:pointer;
+ border-radius:5px;
+width:200px;
+height : 30px ;
+}
+
+
+body
+{
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    color: #181818;
+    margin: 0px 400px 0px 500px ;
+}
+
+
+
+
+header
+{
+    width: 920px;
+    height : 200px ;
+    background: url('/home/julianab/Desktop/sana/plume.jpeg') ;
+
+}
+
+#titre
+{
+    display: flex;
+
+    flex-direction: column;
+}
+
+#logo
+{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+#logo img
+{
+    width: 59px;
+    height: 60px;
+}
+
+header h1
+{
+    font-family: 'BallparkWeiner', serif;
+    font-size: 2.5em;
+    font-weight: normal;
+    margin: 0 0 0 10px;
+}
+
+
+ul {
+ 
+ height : 30px;
+ list-style-type:none;
+ font :  1.2em "Trebuchet MS";
+ }
+
+nav ul
+{   padding : 0px 0px 0px 35px ;
+    list-style-type: none;
+    display: flex;
+}
+
+nav li
+{
+    margin-right: 15px;
+}
+
+nav a
+{
+    font-size: 1.3em;
+    color: #181818;
+    padding-bottom: 3px;
+    text-decoration: none;
+}
+
+
+nav a:hover
+{
+    color: #760001;
+    border-bottom: 3px solid #760001;
+}
+
+ul li a {
+  border-radius: 0.5em;
+ display:block;
+ float:left;   
+ width:200px;
+ line-height:30px; /*hauteur de l'image de fond*/
+ background:black url('/home/julianab/Desktop/sana/noir.jpeg') repeat-x;
+ color:#DCDCDC;
+ text-decoration:none;
+ text-align:center;
+ }
+
+ul li a:hover {
+  border-radius: 0.5em;
+  line-height:30px; /*hauteur de l'image de fond*/
+ background:black url('/home/julianab/Desktop/sana/fond.jpeg') repeat-x;
+ color:white;
+ }

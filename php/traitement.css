@@ -1,0 +1,118 @@
+table, td, th {    
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 1500px;
+    margin : 0 0 0 0;
+}
+
+th, td {
+    padding: 15px;
+}
+
+body
+{
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    color: #181818;
+    margin: 0px 200px 0px 200px ;
+}
+
+#bloc_page
+{
+
+    margin: auto;
+}
+
+
+header
+{
+    width: 920px;
+    height : 200px ;
+    background: url('var/www/ovedb/plume.jpeg') ;
+
+}
+
+#titre
+{
+    display: flex;
+
+    flex-direction: column;
+}
+
+#logo
+{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+#logo img
+{
+    width: 59px;
+    height: 60px;
+}
+
+header h1
+{
+    font-family: 'BallparkWeiner', serif;
+    font-size: 2.5em;
+    font-weight: normal;
+    margin: 0 0 0 10px;
+}
+
+
+ul {
+ 
+ height : 30px;
+ list-style-type:none;
+ font :  1.2em "Trebuchet MS";
+ }
+
+nav ul
+{   padding : 0px 0px 0px 35px ;
+    list-style-type: none;
+    display: flex;
+}
+
+nav li
+{
+    margin-right: 15px;
+}
+
+nav a
+{
+    font-size: 1.3em;
+    color: #181818;
+    padding-bottom: 3px;
+    text-decoration: none;
+}
+
+
+nav a:hover
+{
+    color: #760001;
+    border-bottom: 3px solid #760001;
+}
+
+ul li a {
+  border-radius: 0.5em;
+ display:block;
+ float:left;   
+ width:200px;
+ line-height:30px; /*hauteur de l'image de fond*/
+ background:black url('/home/julianab/Desktop/sana/noir.jpeg') repeat-x;
+ color:#DCDCDC;
+ text-decoration:none;
+ text-align:center;
+ }
+
+ul li a:hover {
+  border-radius: 0.5em;
+  line-height:30px; /*hauteur de l'image de fond*/
+ background:black url('/home/julianab/Desktop/sana/fond.jpeg') repeat-x;
+ color:white;
+ }
+
