@@ -1,0 +1,45 @@
+describe gene;
++--------------+---------------+------+-----+---------+-------+
+| Field        | Type          | Null | Key | Default | Extra |
++--------------+---------------+------+-----+---------+-------+
+| id           | varchar(30)   | NO   | PRI |         |       |
+| sequence_ID  | int(11)       | YES  | MUL | NULL    |       |
+| strainID     | varchar(30)   | YES  | MUL | NULL    |       |
+| start        | int(30)       | YES  |     | NULL    |       |
+| stop         | int(30)       | YES  |     | NULL    |       |
+| proteinID    | varchar(5000) | YES  |     | NULL    |       |
+| length       | int(30)       | YES  |     | NULL    |       |
+| protein_name | varchar(5000) | YES  |     | NULL    |       |
+| strand       | varchar(10)   | YES  |     | NULL    |       |
++--------------+---------------+------+-----+---------+-------+
+
+describe strains;
++---------------------+---------------+------+-----+---------+-------+
+| Field               | Type          | Null | Key | Default | Extra |
++---------------------+---------------+------+-----+---------+-------+
+| strainID            | varchar(30)   | NO   | PRI | NULL    |       |
+| biovar              | varchar(30)   | NO   |     | NULL    |       |
+| size                | int(10)       | NO   |     | NULL    |       |
+| GC                  | int(5)        | NO   |     | NULL    |       |
+| genes               | int(5)        | NO   |     | NULL    |       |
+| proteins            | int(5)        | NO   |     | NULL    |       |
+| ClinicalDescription | varchar(5000) | YES  |     | NULL    |       |
+| country             | varchar(30)   | YES  |     | NULL    |       |
+| city                | varchar(30)   | YES  |     | NULL    |       |
+| host                | varchar(30)   | YES  |     | NULL    |       |
++---------------------+---------------+------+-----+---------+-------+
+
+describe cladehits;
++------------------+-------------+------+-----+---------+-------+
+| Field            | Type        | Null | Key | Default | Extra |
++------------------+-------------+------+-----+---------+-------+
+| evalue           | varchar(30) | NO   |     | NULL    |       |
+| startHit         | int(11)     | NO   | PRI | NULL    |       |
+| endHit           | int(11)     | NO   | PRI | NULL    |       |
+| sequenceId       | int(11)     | NO   | PRI | NULL    |       |
+| pfam_acc_number  | varchar(7)  | NO   | PRI | NULL    |       |
+| startdomain      | int(11)     | NO   |     | NULL    |       |
+| end_domain       | int(11)     | NO   |     | NULL    |       |
+| clade_model      | varchar(30) | NO   |     | NULL    |       |
+| pfam_domain_name | varchar(30) | YES  | MUL | NULL    |       |
++------------------+-------------+------+-----+---------+-------+
