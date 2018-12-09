@@ -5,12 +5,24 @@ For biovars
 
 2) heat map most abundant domains
 
+3) heat map most abundant architecture
+
+4) number of common and unique domains
+
+5) number of common and unique architectures
+
 for each strains
 1) what is the domain coverage of proteins ?
 
-2) heat map compare domain profile
+2) heat map compare domain profiles
+Strain 1 - D1, D2, ..., DN
+Strain 2 - D1, D2, ..., DN
+
+To compute domain profile we can compute pearson correlation et/ou euclidian distance
+
+2) heat map to compare architecture profiles
+Strain 1 - A1, A2, ..., Am
+Strain 2 - A1, A2, ..., Am
 
 3) How many proteins are multi-domain (more then one domain)?
-
-4) What is the domain architecture consistency in orthologous groups?
 
