@@ -1,0 +1,98 @@
+PF00665 GO0015074       DNA integration
+PF00872 GO0006313       transposition, DNA-mediated
+PF01527 GO0006313       transposition, DNA-mediated
+PF01548 GO0006313       transposition, DNA-mediated
+PF04255 GO0030239       myofibril assembly
+PF04255 GO0051146       striated muscle cell differentiation
+PF04255 GO0055002       striated muscle cell development
+PF05622 GO0005768       endosome
+PF05622 GO0005773       vacuole
+PF05622 GO0005813       centrosome
+PF05622 GO0005914       spot adherens junction
+PF05622 GO0005915       zonula adherens
+PF05622 GO0006583       melanin biosynthetic process from tyrosine
+PF05622 GO0007032       endosome organization
+PF05622 GO0007040       lysosome organization
+PF05622 GO0008017       microtubule binding
+PF05622 GO0008333       endosome to lysosome transport
+PF05622 GO0015630       microtubule cytoskeleton
+PF05622 GO0030705       cytoskeleton-dependent intracellular transport
+PF05622 GO0045022       early endosome to late endosome transport
+PF05622 GO0045793       positive regulation of cell size
+PF06810 GO0019069       viral capsid assembly
+PF07022 GO0045892       negative regulation of transcription, DNA-templated
+PF08450 GO0000184       nuclear-transcribed mRNA catabolic process, nonsense-mediated decay
+PF08450 GO0000339       RNA cap binding
+PF08450 GO0000377       RNA splicing, via transesterification reactions with bulged adenosine as nucleophile
+PF08450 GO0004341       gluconolactonase activity
+PF08450 GO0005509       calcium ion binding
+PF08450 GO0005634       nucleus
+PF08450 GO0005681       spliceosomal complex
+PF08450 GO0005730       nucleolus
+PF08450 GO0006370       7-methylguanosine mRNA capping
+PF08450 GO0006406       mRNA export from nucleus
+PF08450 GO0006412       translation
+PF08450 GO0006446       regulation of translational initiation
+PF08450 GO0006874       cellular calcium ion homeostasis
+PF08450 GO0008135       translation factor activity, RNA binding
+PF08450 GO0008270       zinc ion binding
+PF08450 GO0019853       L-ascorbic acid biosynthetic process
+PF08450 GO0031981       nuclear lumen
+PF08450 GO0032781       positive regulation of ATPase activity
+PF08450 GO0050848       regulation of calcium-mediated signaling
+PF08450 GO0071427       mRNA-containing ribonucleoprotein complex export from nucleus
+PF13086 GO0000076       DNA replication checkpoint
+PF13086 GO0000228       nuclear chromosome
+PF13086 GO0000377       RNA splicing, via transesterification reactions with bulged adenosine as nucleophile
+PF13086 GO0000723       telomere maintenance
+PF13086 GO0000729       DNA double-strand break processing
+PF13086 GO0000956       nuclear-transcribed mRNA catabolic process
+PF13086 GO0005524       ATP binding
+PF13086 GO0005634       nucleus
+PF13086 GO0005654       nucleoplasm
+PF13086 GO0005739       mitochondrion
+PF13086 GO0005811       lipid droplet
+PF13086 GO0006260       DNA replication
+PF13086 GO0006273       lagging strand elongation
+PF13086 GO0006281       DNA repair
+PF13086 GO0007409       axonogenesis
+PF13086 GO0007415       defasciculation of motor neuron axon
+PF13086 GO0008045       motor neuron axon guidance
+PF13086 GO0016441       posttranscriptional gene silencing
+PF13086 GO0017108       5'-flap endonuclease activity
+PF13086 GO0017148       negative regulation of translation
+PF13086 GO0030424       axon
+PF13086 GO0031981       nuclear lumen
+PF13086 GO0032508       DNA duplex unwinding
+PF13086 GO0032550       purine ribonucleoside binding
+PF13086 GO0032575       ATP-dependent 5'-3' RNA helicase activity
+PF13086 GO0033567       DNA replication, Okazaki fragment processing
+PF13086 GO0036464       cytoplasmic ribonucleoprotein granule
+PF13086 GO0043137       DNA replication, removal of RNA primer
+PF13086 GO0043139       5'-3' DNA helicase activity
+PF13086 GO0043142       single-stranded DNA-dependent ATPase activity
+PF13086 GO0043244       regulation of protein complex disassembly
+PF13086 GO0044454       nuclear chromosome part
+PF13086 GO0045199       maintenance of epithelial cell apical/basal polarity
+PF13086 GO0048667       cell morphogenesis involved in neuron differentiation
+PF13086 GO0048699       generation of neurons
+PF13086 GO0055059       asymmetric neuroblast division
+PF13086 GO0061564       axon development
+PF13086 GO0090305       nucleic acid phosphodiester bond hydrolysis
+PF13086 GO0098687       chromosomal region
+PF13086 GO2001262       positive regulation of semaphorin-plexin signaling pathway
+PF13276 GO0006313       transposition, DNA-mediated
+PF13276 GO0030239       myofibril assembly
+PF13276 GO0051146       striated muscle cell differentiation
+PF13276 GO0055002       striated muscle cell development
+PF13518 GO0030239       myofibril assembly
+PF13518 GO0051146       striated muscle cell differentiation
+PF13518 GO0055002       striated muscle cell development
+PF13683 GO0015074       DNA integration
+PF14657 GO0030239       myofibril assembly
+PF14657 GO0051146       striated muscle cell differentiation
+PF14657 GO0055002       striated muscle cell development
+PF14659 GO0015074       DNA integration
+PF15919 GO0030239       myofibril assembly
+PF15919 GO0051146       striated muscle cell differentiation
+PF15919 GO0055002       striated muscle cell development
