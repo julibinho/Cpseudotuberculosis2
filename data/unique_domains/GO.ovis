@@ -1,0 +1,27 @@
+PF00245 GO0016791       phosphatase activity
+PF01059 GO0006120       mitochondrial electron transport, NADH to ubiquinone
+PF01636 GO0005634       nucleus
+PF01636 GO0005654       nucleoplasm
+PF01636 GO0005739       mitochondrion
+PF01636 GO0005811       lipid droplet
+PF01636 GO0007409       axonogenesis
+PF01636 GO0007415       defasciculation of motor neuron axon
+PF01636 GO0008045       motor neuron axon guidance
+PF01636 GO0009066       aspartate family amino acid metabolic process
+PF01636 GO0031981       nuclear lumen
+PF01636 GO0045199       maintenance of epithelial cell apical/basal polarity
+PF01636 GO0048667       cell morphogenesis involved in neuron differentiation
+PF01636 GO0048699       generation of neurons
+PF01636 GO0055059       asymmetric neuroblast division
+PF01636 GO0061564       axon development
+PF01636 GO2001262       positive regulation of semaphorin-plexin signaling pathway
+PF16661 GO0005634       nucleus
+PF16661 GO0005654       nucleoplasm
+PF16661 GO0005847       mRNA cleavage and polyadenylation specificity factor complex
+PF16661 GO0006379       mRNA cleavage
+PF16661 GO0006398       mRNA 3'-end processing by stem-loop binding and cleavage
+PF16661 GO0016180       snRNA processing
+PF16661 GO0016591       DNA-directed RNA polymerase II, holoenzyme
+PF16661 GO0031981       nuclear lumen
+PF16661 GO0032039       integrator complex
+PF16661 GO0043631       RNA polyadenylation
